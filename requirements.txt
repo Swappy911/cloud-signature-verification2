@@ -1,0 +1,7 @@
+Flask
+cryptography
+gunicorn
+opencv-python
+numpy
+Pillow
+pdf2image
